@@ -1,0 +1,6 @@
+{
+  "name": "Darul Uloom Muhammadiya Ghousia",
+  "description": "Official Educational and Welfare Portal of Darul Uloom Muhammadiya Ghousia, Nawab Colony, Sargodha, Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
